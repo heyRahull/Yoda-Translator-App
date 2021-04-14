@@ -22,5 +22,5 @@ btnTranslate.addEventListener("click",()=>{
 
 
     console.log("clicked")
-    txtOutput.innerHTML = txtInput.value;
+    
 })
